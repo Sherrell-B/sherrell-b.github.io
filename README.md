@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ '/assest/style.css' | relative_url }}">
+
 # Data Scientist
 
 ## Education
