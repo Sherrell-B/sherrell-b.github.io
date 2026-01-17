@@ -28,3 +28,17 @@
     🔗 View Code on GitHub
   </a>
 </section>
+<section class="project">
+  <h2>NYC Jobs Market Analysis</h2>
+
+  <p>
+    Conducted an in-depth analysis of New York City job postings to uncover salary
+    trends, hiring patterns, and demand across agencies and job categories. The
+    project combines exploratory data analysis, statistical testing, and predictive
+    modeling to generate actionable workforce insights.
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC Jobs"
+     target="_blank">
+    🔗 View Code on GitHub
+  </p>
+</section>
