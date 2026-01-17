@@ -3,7 +3,7 @@
 ## Education
 
 ### Work Experience
- - Project 1
+ - [NYC Jobs Market Analysis] (https://github.com/Sherrell-B/data-science.git)
  - Project 2
 
 ### Projects 
