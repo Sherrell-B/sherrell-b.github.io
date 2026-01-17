@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-
+<img src="{{ '/assest/IMG_1050.JPG' | relative_url }}" alt="Profile picture">
 # Data Scientist
 
 ## Education
