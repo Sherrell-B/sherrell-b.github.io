@@ -3,8 +3,8 @@
 ## Education
 
 ### Work Experience
- - [NYC Jobs Market Analysis] (https://github.com/Sherrell-B/data-science.git)
- - Project 2
+ - 
+ - 
 
 ### Projects 
 
@@ -23,7 +23,7 @@
     <li><strong>Metric:</strong> Accuracy, Precision, Recall</li>
   </ul>
 
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Project-1-Churn"
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Teleco Customer Churn"
      target="_blank">
     🔗 View Code on GitHub
   </a>
