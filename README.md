@@ -40,5 +40,6 @@
   <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC Jobs"
      target="_blank">
     🔗 View Code on GitHub
+  </a>
   </p>
 </section>
