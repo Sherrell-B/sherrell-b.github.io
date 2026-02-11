@@ -7,10 +7,13 @@ I'm a data scientist who transforms complex datasets into strategic business sol
 #### Technical Skills
 Languages & Core Tools
  - Python, R, SQL, Git
+
 Data Analysis & Visualization
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
+
 Machine Learning & Statistics
-- Scikit-learn, TensorFlow, PyTorch, Statsmodels 
+- Scikit-learn, TensorFlow, PyTorch, Statsmodels
+
 Data Engineering
  - Apache Spark, Docker
    
