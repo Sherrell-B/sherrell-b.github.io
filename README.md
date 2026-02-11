@@ -4,22 +4,24 @@
 Turning Data into Actionable Insights
 I'm a data scientist who transforms complex datasets into strategic business solutions. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions that drive measurable results.
 
-### Technical Skills
+#### Technical Skills
 Languages & Core Tools
- - Python R SQL Git
-### Data Analysis & Visualization
-pandas NumPy Matplotlib Seaborn Plotly Tableau Power BI
-### Machine Learning & Statistics
-scikit-learn TensorFlow PyTorch statsmodels XGBoost
-### Data Engineering
-Apache Spark Airflow AWS Docker
+ - Python, R, SQL, Git
+#### Data Analysis & Visualization
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
+#### Machine Learning & Statistics
+- Scikit-learn, TensorFlow, PyTorch, Statsmodels 
+#### Data Engineering
+ - Apache Spark, Docker
+ - 
 ## Education
 
 ### Work Experience
  - 
  - 
 
-### Projects 
+# What I'm Working On
+#### Current Projects 
 
 <section class="project">
   <h2>Customer Churn Prediction</h2>
