@@ -13,7 +13,7 @@ Machine Learning & Statistics
 - Scikit-learn, TensorFlow, PyTorch, Statsmodels 
 Data Engineering
  - Apache Spark, Docker
- - 
+   
 ## Education
 Masters in Data Science | Bellevue University
 2026
