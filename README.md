@@ -65,3 +65,10 @@ Database Systems
   </a>
   </p>
 </section>
+
+Let's Connect
+I'm always interested in collaborating on data science projects or discussing opportunities in analytics and machine learning.
+📧 Email: 
+💼 LinkedIn: 
+🐙 GitHub: github.com/Sherrell-B
+📄 Resume: 
