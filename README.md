@@ -7,21 +7,28 @@ I'm a data scientist who transforms complex datasets into strategic business sol
 #### Technical Skills
 Languages & Core Tools
  - Python, R, SQL, Git
-#### Data Analysis & Visualization
+Data Analysis & Visualization
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
-#### Machine Learning & Statistics
+Machine Learning & Statistics
 - Scikit-learn, TensorFlow, PyTorch, Statsmodels 
-#### Data Engineering
+Data Engineering
  - Apache Spark, Docker
  - 
 ## Education
+Masters in Data Science | Bellevue University
+2026
+Relevant Coursework:
+
+Statistical Analysis & Probability
+Machine Learning & Predictive Modeling
+Data Structures & Algorithms
+Database Systems
 
 ### Work Experience
  - 
  - 
 
 ## What I'm Working On
-### Current Projects 
 
 <section class="project">
   <h2>Customer Churn Prediction</h2>
