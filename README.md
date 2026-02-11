@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{ '/assest/style.css' | relative_url }}">
 
 # Data Scientist 
-Turning Data into Actionable Insights
+### Turning Data into Actionable Insights
 I'm a data scientist who transforms complex datasets into strategic business solutions. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions that drive measurable results.
 
 #### Technical Skills
@@ -20,8 +20,8 @@ Languages & Core Tools
  - 
  - 
 
-# What I'm Working On
-#### Current Projects 
+## What I'm Working On
+### Current Projects 
 
 <section class="project">
   <h2>Customer Churn Prediction</h2>
