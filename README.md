@@ -4,18 +4,14 @@
 ### Turning Data into Actionable Insights
 I'm a data scientist who transforms complex datasets into strategic business solutions. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions that drive measurable results.
 
-#### Technical Skills
-Languages & Core Tools
- - Python, R, SQL, Git
+## 🧠 Skills
 
-Data Analysis & Visualization
-- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
-
-Machine Learning & Statistics
-- Scikit-learn, TensorFlow, PyTorch, Statsmodels
-
-Data Engineering
- - Apache Spark, Docker
+**Languages:** Python, R, SQL  
+**Machine Learning:** Regression, Classification, Clustering  
+**Data:** Pandas, NumPy, tidyverse  
+**Big Data:** Kafka, Docker, Hadoop  
+**Visualization:** Matplotlib, Seaborn, Tableau  
+**Cloud:** GCP  
    
 ## Education
 M.S., Data Science | Bellevue University (March 2026)
@@ -68,7 +64,27 @@ Database Systems
   </a>
   </p>
 </section>
+<section class="project">
+  <h2>Child Care Prices</h2>
+
+  <p>
+    Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
+    affordability challenges, and trends across states and provider types. The project combined exploratory
+    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
+    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
+    and policy planning for families and communities.
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Child Care Prices"
+     target="_blank">
+    🔗 View Code on GitHub
+  </a>
+  </p>
+</section>
 
 #### Let's Connect
 I'm always interested in collaborating on data science projects or discussing opportunities in analytics and machine learning.
 
+## 📬 Contact
+
+📧 shbacon@my365.bellevue.edu  
+🔗 https://github.com/Sherrell-B
