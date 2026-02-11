@@ -15,8 +15,8 @@ Data Engineering
  - Apache Spark, Docker
    
 ## Education
-Masters in Data Science | Bellevue University
-2026
+M.S., Data Science | Bellevue University (March 2026)
+
 Relevant Coursework:
 
 Statistical Analysis & Probability
