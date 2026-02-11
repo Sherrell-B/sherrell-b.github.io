@@ -1,7 +1,18 @@
 <link rel="stylesheet" href="{{ '/assest/style.css' | relative_url }}">
 
-# Data Scientist | Turning Data into Actionable Insights
+# Data Scientist 
+Turning Data into Actionable Insights
 I'm a data scientist who transforms complex datasets into strategic business solutions. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions that drive measurable results.
+
+### Technical Skills
+Languages & Core Tools
+ - Python R SQL Git
+### Data Analysis & Visualization
+pandas NumPy Matplotlib Seaborn Plotly Tableau Power BI
+### Machine Learning & Statistics
+scikit-learn TensorFlow PyTorch statsmodels XGBoost
+### Data Engineering
+Apache Spark Airflow AWS Docker
 ## Education
 
 ### Work Experience
