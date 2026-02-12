@@ -23,11 +23,7 @@ Machine Learning & Predictive Modeling
 Data Structures & Algorithms
 Database Systems
 
-### Work Experience
- - 
- - 
-
-## What I'm Working On
+## 🚀 Featured Projects
 
 <section class="project">
   <h2>Customer Churn Prediction</h2>
