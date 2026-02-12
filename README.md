@@ -80,7 +80,27 @@ Database Systems
   </a>
   </p>
 </section>
+<section class="project">
+  <h2>Recidivism</h2>
 
+  <p>
+    Conducted a comprehensive analysis of recidivism and incarceration data by integrating multiple sources, 
+    including CSV files, APIs, and web-scraped datasets. The project focused on examining state- 
+    and race-based patterns in parole and prison populations, performing data cleaning, transformation, 
+    and exploratory analysis to uncover trends and disparities. Insights from the analysis highlight 
+    factors influencing recidivism rates and provide a foundation for policy evaluation and 
+    informed decision-making.Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
+    affordability challenges, and trends across states and provider types. The project combined exploratory
+    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
+    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
+    and policy planning for families and communities.
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Prison Admissions"
+     target="_blank">
+    🔗 View Code on GitHub
+  </a>
+  </p>
+</section>
 #### Let's Connect
 I'm always interested in collaborating on data science projects or discussing opportunities in analytics and machine learning.
 
