@@ -58,6 +58,7 @@ Database Systems
      target="_blank">
     🔗 View Code on GitHub
   </a>
+  
   </p>
 </section>
 <section class="project">
@@ -74,6 +75,7 @@ Database Systems
      target="_blank">
     🔗 View Code on GitHub
   </a>
+  
   </p>
 </section>
 <section class="project">
@@ -116,6 +118,22 @@ Database Systems
   </a>
 
 </section>
+
+<section class="project">
+  <h2>Street Tree Census Analysis</h2>
+
+  <p>
+     Conducted an in-depth analysis of urban tree census data to examine species distribution, tree health, and maintenance needs across
+     neighborhoods. The project involved data cleaning, exploratory data analysis, and spatial aggregation to identify environmental patterns and
+     areas requiring attention. Insights from the analysis support urban planning, sustainability efforts, and data-driven decision-making for city
+     resource allocation and green infrastructure management.
+  </p>
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Street Tree Census"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
 
 
 #### Let's Connect
