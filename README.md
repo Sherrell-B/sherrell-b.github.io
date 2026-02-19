@@ -134,6 +134,8 @@ Database Systems
      class="project-link">
      🔗 View Code on GitHub
   </a>
+  
+</section>
 
 
 #### Let's Connect
