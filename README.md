@@ -97,24 +97,24 @@ Database Systems
   </a>
   </p>
 </section>
+
 <section class="project">
   <h2>Diabetes Risk Prediction</h2>
 
   <p>
- Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
- The project involved data cleaning, exploratory data analysis, feature engineering, and the evaluation of multiple machine learning 
- models,including logistic  regression and random forests. Model performance was assessed using accuracy, recall, and ROC-AUC to prioritize 
- early detection. The final model provides actionable insights to support preventative screening and more efficient healthcare
- resource allocation.
-.project-link {
-  display: block;
-  margin-top: 10px;
-}
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
-     target="_blank">
-    🔗 View Code on GitHub
-  </a>
+    Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
+    The project involved data cleaning, exploratory data analysis, feature engineering, and the evaluation of multiple machine learning 
+    models, including logistic regression and random forests. Model performance was assessed using accuracy, recall, and ROC-AUC to prioritize 
+    early detection. The final model provides actionable insights to support preventative screening and more efficient healthcare
+    resource allocation.
   </p>
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
+
 </section>
 
 
