@@ -98,7 +98,7 @@ Database Systems
   </p>
 </section>
 <section class="project">
-  <h2>Recidivism</h2>
+  <h2>Diabetes Risk Prediction</h2>
 
   <p>
  Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
