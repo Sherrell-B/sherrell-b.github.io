@@ -26,7 +26,7 @@ Database Systems
 ## 🚀 Featured Projects
 
 <section class="project">
-  <h2>Customer Churn Prediction</h2>
+  <h2>Teleco Customer Churn Prediction</h2>
 
   <p>
     Built a machine learning model to identify customers at high risk of churn
