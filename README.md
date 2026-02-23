@@ -26,6 +26,61 @@ Database Systems
 ## 🚀 Featured Projects
 
 <section class="project">
+  <h2>Child Care Prices</h2>
+
+  <p>
+    Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
+    affordability challenges, and trends across states and provider types. The project combined exploratory
+    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
+    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
+    and policy planning for families and communities.
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Child Care Prices"
+     target="_blank">
+    🔗 View Code on GitHub
+  </a>
+  
+  </p>
+</section>
+
+<section class="project">
+  <h2>Kia Car Theft Analysis</h2>
+
+  <p>
+  This project analyzes vehicle theft incidents involving Kia & Hyundai models to identify trends, risk factors, and geographic patterns associated
+  with increased theft activity. The goal is to use data analytics to better understand when and where thefts occur and to provide insights that
+  support prevention strategies and public safety planning. The analysis combines exploratory data analysis, trend detection, and 
+  visualization techniques to uncover actionable insights for law enforcement, policymakers, and community stakeholders.
+  </p>
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
+
+</section>
+
+<section class="project">
+  <h2>Diabetes Risk Prediction</h2>
+
+  <p>
+    Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
+    The project involved data cleaning, exploratory data analysis, feature engineering, and the evaluation of multiple machine learning 
+    models, including logistic regression and random forests. Model performance was assessed using accuracy, recall, and ROC-AUC to prioritize 
+    early detection. The final model provides actionable insights to support preventative screening and more efficient healthcare
+    resource allocation.
+  </p>
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
+
+</section>
+
+<section class="project">
   <h2>Teleco Customer Churn Prediction</h2>
 
   <p>
@@ -61,23 +116,7 @@ Database Systems
   
   </p>
 </section>
-<section class="project">
-  <h2>Child Care Prices</h2>
 
-  <p>
-    Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
-    affordability challenges, and trends across states and provider types. The project combined exploratory
-    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
-    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
-    and policy planning for families and communities.
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Child Care Prices"
-     target="_blank">
-    🔗 View Code on GitHub
-  </a>
-  
-  </p>
-</section>
 <section class="project">
   <h2>Recidivism</h2>
 
@@ -98,25 +137,6 @@ Database Systems
     🔗 View Code on GitHub
   </a>
   </p>
-</section>
-
-<section class="project">
-  <h2>Diabetes Risk Prediction</h2>
-
-  <p>
-    Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
-    The project involved data cleaning, exploratory data analysis, feature engineering, and the evaluation of multiple machine learning 
-    models, including logistic regression and random forests. Model performance was assessed using accuracy, recall, and ROC-AUC to prioritize 
-    early detection. The final model provides actionable insights to support preventative screening and more efficient healthcare
-    resource allocation.
-  </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
-  </a>
-
 </section>
 
 <section class="project">
