@@ -44,24 +44,6 @@ Database Systems
 </section>
 
 <section class="project">
-  <h2>Kia Car Theft Analysis</h2>
-
-  <p>
-  This project analyzes vehicle theft incidents involving Kia & Hyundai models to identify trends, risk factors, and geographic patterns associated
-  with increased theft activity. The goal is to use data analytics to better understand when and where thefts occur and to provide insights that
-  support prevention strategies and public safety planning. The analysis combines exploratory data analysis, trend detection, and 
-  visualization techniques to uncover actionable insights for law enforcement, policymakers, and community stakeholders.
-  </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
-  </a>
-
-</section>
-
-<section class="project">
   <h2>Diabetes Risk Prediction</h2>
 
   <p>
@@ -73,6 +55,24 @@ Database Systems
   </p>
 
   <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
+
+</section>
+
+<section class="project">
+  <h2>Kia Car Theft Analysis</h2>
+
+  <p>
+  This project analyzes vehicle theft incidents involving Kia & Hyundai models to identify trends, risk factors, and geographic patterns associated
+  with increased theft activity. The goal is to use data analytics to better understand when and where thefts occur and to provide insights that
+  support prevention strategies and public safety planning. The analysis combines exploratory data analysis, trend detection, and 
+  visualization techniques to uncover actionable insights for law enforcement, policymakers, and community stakeholders.
+  </p>
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Kia Theft"
      target="_blank"
      class="project-link">
      🔗 View Code on GitHub
