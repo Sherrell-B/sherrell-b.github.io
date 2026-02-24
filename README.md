@@ -90,12 +90,6 @@ Database Systems
     efforts for high-risk customers.
   </p>
 
-  <ul>
-    <li><strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib</li>
-    <li><strong>Model:</strong> Logistic Regression</li>
-    <li><strong>Metric:</strong> Accuracy, Precision, Recall</li>
-  </ul>
-
   <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC 311 Service Analysis"
      target="_blank">
     🔗 View Code on GitHub
