@@ -75,7 +75,27 @@ Database Systems
      class="project-link">
      🔗 View Code on GitHub
   </a>
+  
+  </p>
+</section>
 
+<section class="project">
+  <h2>Fuel Efficiency Prediction</h2>
+
+  <p>
+    Built regression models to predict vehicle fuel efficiency (MPG) using
+    engine and vehicle characteristics. Applied data cleaning, feature
+    engineering, and multiple linear regression to identify the factors that
+    most influence fuel consumption and improve prediction accuracy.
+  </p>
+
+    <a href="https://github.com/Sherrell-B/data-science/tree/main/Fuel Efficiency"
+     target="_blank"
+     class="project-link">
+     🔗 View Code on GitHub
+  </a>
+  
+  </p>
 </section>
 
 <section class="project">
