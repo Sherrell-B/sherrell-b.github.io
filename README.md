@@ -1,8 +1,24 @@
 <link rel="stylesheet" href="{{ '/assest/style.css' | relative_url }}">
 
-# Data Scientist 
-### Turning Data into Actionable Insights
-I'm a data scientist who transforms complex datasets into strategic business solutions. With expertise in machine learning, statistical modeling, and data visualization, I help organizations make data-driven decisions that drive measurable results.
+<section id="about">
+  <h1>About Me</h1>
+
+  <p>
+    I’m a data scientist who enjoys turning messy datasets into clear insights and practical solutions. My background combines statistics, machine learning, and data storytelling to help organizations better understand their customers, operations, and communities.
+  </p>
+
+  <p>
+    Across my projects, I’ve built predictive models for customer churn and diabetes risk, analyzed workforce and housing trends, and explored public safety and urban forestry data. I focus on not just building models, but communicating results in ways that support real decisions.
+  </p>
+
+  <p>
+    My toolkit includes Python, R, SQL, machine learning, visualization, and end-to-end analytics workflows using Jupyter and Git. I value clean, reproducible code and insights that make an impact.
+  </p>
+
+  <p>
+    When I’m not analyzing data, I enjoy learning new tools and sharing knowledge through tutorials and projects that help others grow their analytics skills.
+  </p>
+</section>
 
 ## 🧠 Skills
 
