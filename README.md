@@ -89,7 +89,7 @@ Database Systems
     most influence fuel consumption and improve prediction accuracy.
   </p>
 
-    <a href="https://github.com/Sherrell-B/data-science/tree/main/Fuel Efficiency"
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Fuel Efficiency"
      target="_blank"
      class="project-link">
      🔗 View Code on GitHub
