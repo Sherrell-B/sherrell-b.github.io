@@ -188,16 +188,12 @@ Database Systems
   <h2>Teleco Customer Churn Prediction</h2>
 
   <p>
-    Built a machine learning model to identify customers at high risk of churn
-    using Logistic Regression and Random Forest. The model helps target retention
-    efforts for high-risk customers.
+    Developed classification models to predict customer churn using behavioral,
+    demographic, and account activity data. Applied Logistic Regression and Random
+    Forest to identify high-risk customers and evaluated performance using accuracy,
+    precision, and recall. The results support targeted retention strategies and
+    proactive customer engagement.
   </p>
-
-  <ul>
-    <li><strong>Tech:</strong> Python, Pandas, Scikit-learn, Matplotlib</li>
-    <li><strong>Model:</strong> Logistic Regression</li>
-    <li><strong>Metric:</strong> Accuracy, Precision, Recall</li>
-  </ul>
 
   <a href="https://github.com/Sherrell-B/data-science/tree/main/Teleco Customer Churn"
      target="_blank">
