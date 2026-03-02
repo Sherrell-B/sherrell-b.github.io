@@ -94,7 +94,6 @@ Database Systems
   </a>
   
 </section>
-
 <section class="project">
   <h2>Kia Car Theft Analysis</h2>
 
@@ -206,6 +205,21 @@ Database Systems
   </a>
 </section>
 
+<section class="project">
+  <h2>TSA Complaint Trend Analysis</h2>
+
+  <p>
+    Analyzed passenger complaint data from the 
+    :contentReference[oaicite:0]{index=0} 
+    to identify common grievance categories, time-based trends, and operational pain points. 
+    Used exploratory data analysis and visualizations to uncover patterns that can inform 
+    service improvements and enhance the overall traveler experience.
+
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/TSA Complaints"
+     target="_blank">
+    🔗 View Code on GitHub
+  </a>
+</section>
 
 #### Let's Connect
 I'm always interested in collaborating on data science projects or discussing opportunities in analytics and machine learning.
