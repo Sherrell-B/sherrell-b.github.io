@@ -173,8 +173,17 @@ Database Systems
     🔗 View Code on GitHub
   </a>
 </section>
+<section class="contact">
+  <h2>Let's Connect</h2>
 
+  <p>
+    I'm always interested in collaborating on data science projects or discussing
+    opportunities in analytics, machine learning, and data-driven problem solving.
+  </p>
 
-📬 Contact
-📧 shbacon@my365.bellevue.edu 
-🔗 https://github.com/Sherrell-B
+  <p>
+    📧 <a href="mailto:shbacon@my365.bellevue.edu">shbacon@my365.bellevue.edu</a><br>
+    💻 <a href="https://github.com/Sherrell-B" target="_blank">GitHub Portfolio</a><br>
+    🔗 <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a>
+  </p>
+</section>
