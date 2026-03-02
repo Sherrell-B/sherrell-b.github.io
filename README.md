@@ -184,6 +184,5 @@ Database Systems
   <p>
     📧 <a href="mailto:shbacon@my365.bellevue.edu">shbacon@my365.bellevue.edu</a><br>
     💻 <a href="https://github.com/Sherrell-B" target="_blank">GitHub Portfolio</a><br>
-    🔗 <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a>
   </p>
 </section>
