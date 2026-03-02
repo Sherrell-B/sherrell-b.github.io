@@ -56,7 +56,6 @@ Database Systems
     🔗 View Code on GitHub
   </a>
   
-  </p>
 </section>
 
 <section class="project">
@@ -76,7 +75,6 @@ Database Systems
      🔗 View Code on GitHub
   </a>
   
-  </p>
 </section>
 
 <section class="project">
@@ -95,7 +93,6 @@ Database Systems
      🔗 View Code on GitHub
   </a>
   
-  </p>
 </section>
 
 <section class="project">
