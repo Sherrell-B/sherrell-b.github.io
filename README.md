@@ -42,185 +42,134 @@ Database Systems
 ## 🚀 Featured Projects
 
 <section class="project">
-  <h2>Child Care Prices</h2>
-
+  <h2>Child Care Price Analysis</h2>
   <p>
-    Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
-    affordability challenges, and trends across states and provider types. The project combined exploratory
-    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
-    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
-    and policy planning for families and communities.
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Child Care Prices"
-     target="_blank">
+    Analyzed child care pricing data to identify regional cost differences, affordability challenges,
+    and trends across states and provider types. Applied data cleaning, exploratory analysis, and
+    statistical comparisons to uncover key pricing drivers and highlight disparities impacting families.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Child Care Prices" target="_blank">
     🔗 View Code on GitHub
   </a>
-  
 </section>
+
 
 <section class="project">
   <h2>Diabetes Risk Prediction</h2>
-
   <p>
-    Developed a predictive modeling solution to identify patients at risk of diabetes using clinical and demographic health indicators. 
-    The project involved data cleaning, exploratory data analysis, feature engineering, and the evaluation of multiple machine learning 
-    models, including logistic regression and random forests. Model performance was assessed using accuracy, recall, and ROC-AUC to prioritize 
-    early detection. The final model provides actionable insights to support preventative screening and more efficient healthcare
-    resource allocation.
+    Developed machine learning models to identify patients at risk of diabetes using clinical and
+    demographic indicators. Performed feature engineering and evaluated Logistic Regression and
+    Random Forest models to support early detection and preventative healthcare strategies.
   </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Diabetes" target="_blank" class="project-link">
+    🔗 View Code on GitHub
   </a>
-  
 </section>
+
 
 <section class="project">
   <h2>Fuel Efficiency Prediction</h2>
-
   <p>
-    Built regression models to predict vehicle fuel efficiency (MPG) using
-    engine and vehicle characteristics. Applied data cleaning, feature
-    engineering, and multiple linear regression to identify the factors that
-    most influence fuel consumption and improve prediction accuracy.
+    Built regression models to predict vehicle fuel efficiency (MPG) using engine and vehicle
+    characteristics. Applied data cleaning, feature engineering, and multiple linear regression to
+    identify the primary drivers of fuel consumption and improve prediction accuracy.
   </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Fuel Efficiency"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
-  </a>
-  
-</section>
-<section class="project">
-  <h2>Kia Car Theft Analysis</h2>
-
-  <p>
-  This project analyzes vehicle theft incidents involving Kia & Hyundai models to identify trends, risk factors, and geographic patterns associated
-  with increased theft activity. The goal is to use data analytics to better understand when and where thefts occur and to provide insights that
-  support prevention strategies and public safety planning. The analysis combines exploratory data analysis, trend detection, and 
-  visualization techniques to uncover actionable insights for law enforcement, policymakers, and community stakeholders.
-  </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Kia Theft"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
-  </a>
-
-</section>
-<section class="project">
-  <h2>NYC 311 Service</h2>
-
-  <p>
-    Analyzed large-scale 311 service request data using Python to perform data wrangling, feature engineering, and time-series and spatial analysis.
-    Built visualizations and summary metrics to evaluate complaint volumes, response times, and borough-level disparities, enabling actionable
-    insights for service optimization.Built a machine learning model to identify customers at high risk of churn
-    using Logistic Regression and Random Forest. The model helps target retention
-    efforts for high-risk customers.
-  </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC 311 Service Analysis"
-     target="_blank">
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Fuel Efficiency" target="_blank" class="project-link">
     🔗 View Code on GitHub
   </a>
 </section>
+
+
+<section class="project">
+  <h2>Kia Vehicle Theft Trend Analysis</h2>
+  <p>
+    Investigated theft incidents involving vehicles from 
+    :contentReference[oaicite:0]{index=0} and 
+    :contentReference[oaicite:1]{index=1}
+    to identify geographic hotspots and time-based trends. Insights support prevention strategies,
+    public safety planning, and resource allocation.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Kia Theft" target="_blank" class="project-link">
+    🔗 View Code on GitHub
+  </a>
+</section>
+
+
+<section class="project">
+  <h2>NYC 311 Service Request Analysis</h2>
+  <p>
+    Analyzed large-scale municipal service request data to evaluate complaint volumes, response times,
+    and borough-level disparities. Used time-series and spatial analysis to uncover operational patterns
+    and recommend opportunities for service optimization.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC 311 Service Analysis" target="_blank">
+    🔗 View Code on GitHub
+  </a>
+</section>
+
 
 <section class="project">
   <h2>NYC Jobs Market Analysis</h2>
-
   <p>
-    Conducted an in-depth analysis of New York City job postings to uncover salary
-    trends, hiring patterns, and demand across agencies and job categories. The
-    project combines exploratory data analysis, statistical testing, and predictive
-    modeling to generate actionable workforce insights.
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC Jobs"
-     target="_blank">
+    Explored New York City job postings to identify salary trends, hiring patterns, and demand across
+    agencies and roles. Combined exploratory analysis and predictive modeling to generate actionable
+    workforce insights.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/NYC Jobs" target="_blank">
     🔗 View Code on GitHub
   </a>
-  
-  </p>
 </section>
+
 
 <section class="project">
-  <h2>Recidivism</h2>
-
+  <h2>Recidivism & Incarceration Analysis</h2>
   <p>
-    Conducted a comprehensive analysis of recidivism and incarceration data by integrating multiple sources, 
-    including CSV files, APIs, and web-scraped datasets. The project focused on examining state- 
-    and race-based patterns in parole and prison populations, performing data cleaning, transformation, 
-    and exploratory analysis to uncover trends and disparities. Insights from the analysis highlight 
-    factors influencing recidivism rates and provide a foundation for policy evaluation and 
-    informed decision-making.Conducted an in-depth analysis of child care pricing data to identify regional cost differences, 
-    affordability challenges, and trends across states and provider types. The project combined exploratory
-    data analysis, data cleaning, and statistical comparisons to uncover pricing patterns and key cost drivers.
-    Insights were used to highlight disparities and inform discussions around accessibility, budgeting, 
-    and policy planning for families and communities.
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Prison Admissions"
-     target="_blank">
+    Integrated multiple data sources including CSV files, APIs, and web data to examine state- and
+    demographic-based patterns in incarceration and recidivism. Identified disparities and trends to
+    support policy evaluation and data-driven criminal justice insights.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Prison Admissions" target="_blank">
     🔗 View Code on GitHub
   </a>
-  </p>
 </section>
+
 
 <section class="project">
   <h2>Street Tree Census Analysis</h2>
-
   <p>
-     Conducted an in-depth analysis of urban tree census data to examine species distribution, tree health, and maintenance needs across
-     neighborhoods. The project involved data cleaning, exploratory data analysis, and spatial aggregation to identify environmental patterns and
-     areas requiring attention. Insights from the analysis support urban planning, sustainability efforts, and data-driven decision-making for city
-     resource allocation and green infrastructure management.
+    Analyzed the 
+    :contentReference[oaicite:2]{index=2}
+    street tree census to examine species distribution, tree health, and neighborhood-level patterns.
+    Findings support urban planning, sustainability efforts, and resource allocation decisions.
   </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Street Tree Census"
-     target="_blank"
-     class="project-link">
-     🔗 View Code on GitHub
-  </a>
-  
-</section>
-<section class="project">
-  <h2>Teleco Customer Churn Prediction</h2>
-
-  <p>
-    Developed classification models to predict customer churn using behavioral,
-    demographic, and account activity data. Applied Logistic Regression and Random
-    Forest to identify high-risk customers and evaluated performance using accuracy,
-    precision, and recall. The results support targeted retention strategies and
-    proactive customer engagement.
-  </p>
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/Teleco Customer Churn"
-     target="_blank">
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Street Tree Census" target="_blank" class="project-link">
     🔗 View Code on GitHub
   </a>
 </section>
+
+
+<section class="project">
+  <h2>Telecom Customer Churn Prediction</h2>
+  <p>
+    Developed classification models to predict customer churn using behavioral and account activity data.
+    Applied Logistic Regression and Random Forest to identify high-risk customers and support targeted
+    retention strategies.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/Teleco Customer Churn" target="_blank">
+    🔗 View Code on GitHub
+  </a>
+</section>
+
 
 <section class="project">
   <h2>TSA Complaint Trend Analysis</h2>
-
   <p>
-    Analyzed passenger complaint data from the 
-    :contentReference[oaicite:0]{index=0} 
-    to identify common grievance categories, time-based trends, and operational pain points. 
-    Used exploratory data analysis and visualizations to uncover patterns that can inform 
-    service improvements and enhance the overall traveler experience.
-
-  <a href="https://github.com/Sherrell-B/data-science/tree/main/TSA Complaints"
-     target="_blank">
+    Analyzed passenger complaints submitted to the 
+    :contentReference[oaicite:3]{index=3}
+    to identify common grievance categories and time-based trends. Insights highlight operational
+    pain points and opportunities to improve traveler experience.
+  </p>
+  <a href="https://github.com/Sherrell-B/data-science/tree/main/TSA Complaints" target="_blank">
     🔗 View Code on GitHub
   </a>
 </section>
-
-#### Let's Connect
-I'm always interested in collaborating on data science projects or discussing opportunities in analytics and machine learning.
-
-## 📬 Contact
-
-📧 shbacon@my365.bellevue.edu  
-🔗 https://github.com/Sherrell-B
